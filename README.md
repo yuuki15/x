@@ -1,4 +1,4 @@
-# 🚨 If X is down, see [Twilog](https://twilog.togetter.com/yuuki26) ([jpn](https://twilog.togetter.com/yuuki170)). 🚨
+# 🚨 See [Twilog](https://twilog.togetter.com/yuuki26) ([jpn](https://twilog.togetter.com/yuuki170)) if X is down. 🚨
 
 ## Other frontends
 
