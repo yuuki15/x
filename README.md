@@ -1,32 +1,30 @@
-# yuuki X Archive
+# 🚨 If X is down, see [Twilog](https://twilog.togetter.com/yuuki26) ([jpn](https://twilog.togetter.com/yuuki170)). 🚨
 
-* [@yuuki26](https://x.com/yuuki26) (ID: [1463770680491593729](https://x.com/i/user/1463770680491593729))
-    * jpn: [@yuuki170](https://x.com/yuuki170) (ID: [1672629051419410435](https://x.com/i/user/1672629051419410435))
+## Other frontends
 
-## Mirrors
-
-* [Twilog](https://twilog.togetter.com/yuuki26) · [jpn](https://twilog.togetter.com/yuuki170)
 * [Nitter](https://farside.link/nitter/i/user/1463770680491593729) · [jpn](https://farside.link/nitter/i/user/1672629051419410435)
-* [Mastodon.social: @yuukikonno](https://mastodon.social/@yuukikonno)
+* [Mastodon](https://mastodon.social/@yuukikonno) (English only)
     * [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view)
 
 ## Archives
 
 * [Archive.today](https://archive.today/https://x.com/yuuki26/status/*) · [jpn](https://archive.today/https://x.com/yuuki170/status/*)
-* [Internet Archive](https://web.archive.org/web/*/https://x.com/yuuki26/status/*) · [jpn](https://web.archive.org/web/*/https://x.com/yuuki170/status/*)
 * [Posfie (- 2024)](https://posfie.com/@yuuki253/p/T1r2nif) · [jpn](https://posfie.com/@yuuki253/p/kEKxAGg)
 * [FC2 Blog (- Jun 2024)](https://yuuki6.blog.fc2.com/)
 * [Media (- 2023)](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
 
-## Old accounts
+## Accounts
+
+* [@yuuki26](https://x.com/yuuki26) (ID: [1463770680491593729](https://x.com/i/user/1463770680491593729))
+    * jpn: [@yuuki170](https://x.com/yuuki170) (ID: [1672629051419410435](https://x.com/i/user/1672629051419410435))
+
+### 2019
 
 <details>
 <summary>[show]</summary>
 
-### 2019
-
 * @yuuki___0517 (suspended)
-    * [Pawoo: @yuuki___0517](https://pawoo.net/@yuuki___0517)
+    * [Pawoo](https://pawoo.net/@yuuki___0517)
     * [Archive.today](https://archive.today/https://twitter.com/yuuki___0517/status/*)
     * [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki___0517/status/*)
     * [FC2 Blog](https://yuukishogi.blog.fc2.com/)
