@@ -37,6 +37,6 @@
 
 yuuki's X/Twitter/Mastodon posts (including text, images, videos, and audio) are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-https://youtu.be/b6dcrSjsA7A
-
 https://github.com/user-attachments/assets/8920ccf0-003d-46d2-a480-da4a5431745a
+
+https://youtu.be/b6dcrSjsA7A
