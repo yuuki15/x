@@ -8,6 +8,7 @@
 * [Nitter](https://farside.link/nitter/i/user/1463770680491593729) · [jpn](https://farside.link/nitter/i/user/1672629051419410435)
 * [Mastodon](https://mastodon.social/@yuukikonno) (English only)
     * [Notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view)
+* [Bluesky](https://bsky.app/profile/yuukikonno.bsky.social) (English only)
 
 ## Archives
 
